@@ -1402,6 +1402,11 @@ h3.quote::before {
     width: 100%;
     text-align: center;
   }
+  .mainContent{
+    position: absolute;
+    width: 100%;
+    margin-top: 40%;
+  }
 }
 
 @media (max-width: 768px) {
@@ -1418,7 +1423,7 @@ h3.quote::before {
     margin-left: 0px;
   }
   .slider .block h1 {
-    font-size: 56px;
+    font-size: 50px;
     line-height: 70px;
   }
   .blog-item-meta span {
@@ -1434,6 +1439,32 @@ h3.quote::before {
     width: 100%;
     text-align: center;
   }
+  .mainContent{
+    position: absolute;
+    width: 100%;
+    margin-top: 35%;
+  }
 }
 
+@media(max-width:1024px){
+  .mainContent{
+    position: absolute;
+    width: 100%;
+    margin-top: 16%;
+  }
+}
+@media(max-width:1400px){
+  .mainContent{
+    position: absolute;
+    width: 100%;
+    margin-top: 9.5%;
+  }
+}
+@media(max-width:900px){
+  .mainContent{
+    position: absolute;
+    width: 100%;
+    margin-top: 50%;
+  }
+}
 /*# sourceMappingURL=maps/style.css.map */
