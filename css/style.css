@@ -13,6 +13,25 @@ body {
   font-size: 17px;
   color: rgba(0, 0, 0, 0.65);
 }
+.logoClass{
+  height: 55px;
+  width: 100px;
+}
+
+.headerMenu{
+  position: fixed;
+  height: 24%;
+    width: 100%;
+    z-index: 1;
+    overflow: hidden;
+}
+.headingWrapper{
+  height: 24%;
+}
+.mainContent{
+  position: absolute;
+    width: 100%;
+}
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: "Poppins", sans-serif;
