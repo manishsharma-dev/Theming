@@ -18,19 +18,19 @@ body {
   width: 100px;
 }
 
-.headerMenu{
-  position: fixed;
+.headerMenu{  
   height: 24%;
-    width: 100%;
-    z-index: 1;
-    overflow: hidden;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
 }
 .headingWrapper{
   height: 24%;
 }
 .mainContent{
   position: absolute;
-    width: 100%;
+  width: 100%;
+  margin-top: 9%;
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
