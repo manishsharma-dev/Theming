@@ -19,7 +19,7 @@ body {
 }
 
 .headerMenu{  
-  height: 24%;
+  height: 130px;
   width: 100%;
   position: fixed;
   z-index: 1;
@@ -30,7 +30,7 @@ body {
 .mainContent{
   position: absolute;
   width: 100%;
-  margin-top: 9%;
+  margin-top: 130px;
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
@@ -518,13 +518,16 @@ ul.dropdown-menu li {
 }
 
 .bg-1 {
-  background: url("../images/bg/home-2.jpg") no-repeat 50% 50%;
+  background: url("../images/about/about-cover.jpg") no-repeat 50% 50%;
   background-size: cover;
 }
 
 .bg-2 {
   background: url("../images/bg/home-5.jpg");
   background-size: cover;
+}
+.service-background{
+  background: url("../images/about/service-cover.jpg") no-repeat 50% 50%;
 }
 
 .slider {
@@ -1405,7 +1408,7 @@ h3.quote::before {
   .mainContent{
     position: absolute;
     width: 100%;
-    margin-top: 40%;
+    margin-top: 130px;
   }
 }
 
@@ -1442,7 +1445,7 @@ h3.quote::before {
   .mainContent{
     position: absolute;
     width: 100%;
-    margin-top: 35%;
+    margin-top: 130px;
   }
 }
 
@@ -1450,21 +1453,21 @@ h3.quote::before {
   .mainContent{
     position: absolute;
     width: 100%;
-    margin-top: 16%;
+    margin-top: 130px;
   }
 }
 @media(max-width:1400px){
   .mainContent{
     position: absolute;
     width: 100%;
-    margin-top: 9.5%;
+    margin-top: 130px;
   }
 }
 @media(max-width:900px){
   .mainContent{
     position: absolute;
     width: 100%;
-    margin-top: 50%;
+    margin-top: 130px;
   }
 }
 /*# sourceMappingURL=maps/style.css.map */
