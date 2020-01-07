@@ -532,7 +532,7 @@ ul.dropdown-menu li {
 }
 
 .slider {
-  background: url("../images/bg/home-1.jpg") no-repeat;
+  background: url("../images/Home/home-1.jpg") no-repeat;
   background-size: cover;
   background-position: 10% 0%;
   padding: 200px 0 280px 0;
@@ -586,7 +586,7 @@ ul.dropdown-menu li {
   top: 0px;
   width: 45%;
   min-height: 650px;
-  background: url("../images/about/home-8.jpg") no-repeat;
+  background: url("../images/Home/home-8.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -706,7 +706,7 @@ ul.dropdown-menu li {
 }
 
 .cta {
-  background: url("../images/bg/home-3.jpg") fixed 50% 50%;
+  background: url("../images/Home/home-7.jpg") fixed 50% 50%;
   background-size: cover;
   padding: 120px 0px;
 }
