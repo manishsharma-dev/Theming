@@ -519,8 +519,21 @@ ul.dropdown-menu li {
 }
 
 .bg-1 {
-  background: url("../images/about/about-cover.jpg") no-repeat 50% 50%;
+  background: url("../images/about/about-cover.jpg") center center no-repeat ;
   background-size: cover;
+  position: relative;
+}
+
+.bg-portfolio{
+  background: url("../images/portfolio/portfolio.jpg") center center no-repeat ;
+  background-size: cover;
+  position: relative;
+  
+}
+.bg-contact{
+  background: url("../images/contact/contact-cover.jpg") center center no-repeat ;
+  background-size: cover;
+  position: relative;
 }
 
 .bg-2 {
@@ -532,10 +545,9 @@ ul.dropdown-menu li {
 }
 
 .slider {
-  background: url("../images/Home/home-1.jpg") no-repeat;
+  background: url("../images/Home/home-1.jpg") center center no-repeat;
   background-size: cover;
-  background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 20px 0 28px 0;
   position: relative;
 }
 
