@@ -552,7 +552,7 @@ ul.dropdown-menu li {
 }
 
 .slider .block h1 {
-  font-size: 70px;
+  font-size: 50px;
   line-height: 80px;
   font-weight: 600;
   color: #fff;
@@ -1499,4 +1499,39 @@ h3.quote::before {
   background: #e0e0e0;
   border-radius: 32px;
   font-size: 13px; 
+}
+
+.tech-category-heading{
+  font-size:24px;
+  font-weight: 300!important;
+}
+
+.tech-sub-head{
+  font-size: 16px;
+  font-weight: 100!important;
+}
+.tech-img {
+  display: table-cell;
+  min-width: 100%;
+  vertical-align: middle;
+  height: 104px;
+  text-align: center;
+  margin: 0 auto;
+  float: none;
+  width: 100%;
+  border: 1px solid #e1e1e1;
+}
+.tech-img img {
+  max-width: 117px;
+  margin: 0 auto;
+  float: none;
+  text-align: center;
+  width: 100%;
+  max-height: 100px;
+  display: block;
+}
+
+.tech-row{
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
