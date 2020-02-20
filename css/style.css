@@ -1535,3 +1535,28 @@ h3.quote::before {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+
+.tech-div {
+  position: relative;
+  padding-left: 1px;
+  padding-right: 5px;
+}
+
+.mar-bot20 {
+  margin-bottom: 20px;
+}
+
+.tech-wrap {
+  width: 100.1%;
+  display: inline-table;
+}
+
+.service-Section{
+  padding: 80px!important;
+  width: 90%;
+}
+
+.tech-div a {
+  color: #ccc;
+  display: table-row;
+}
